@@ -7,22 +7,11 @@
 ## Dependencies
 * Node 6+[Node](https://nodejs.org/en/download/package-manager/)
 * Npm
-HELLO THIS IS MIKA TESTING FOR CLASS
 
 
-Woah look I can edit this file here
-
-and here!
-
-
-
-
-
-
-
-
-
-
-
-
-and all the way over here!OA
+### Mika Changes
+* This is a change
+* So is this!
+* woah look I can edit this file here
+* and here!
+* AND ALL THE WAY DOWN HERE!
